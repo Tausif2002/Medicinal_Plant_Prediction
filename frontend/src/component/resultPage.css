@@ -1,0 +1,21 @@
+.slant-1 {
+  height: 50px;
+  position: relative;
+  z-index: 4;
+   }
+  .slant-1:before {
+    position: absolute;
+    width: 110%;
+    content: "";
+    background: #fff;
+    top: -120px;
+    
+    right: 0;
+    bottom: 0;
+    -webkit-transform: rotate(-2deg) translateX(0%);
+    -ms-transform: rotate(-5deg) translateX(0%);
+    transform: rotate(-4deg) translateX(3%); }
+
+    .container {
+      position: relative;
+    }

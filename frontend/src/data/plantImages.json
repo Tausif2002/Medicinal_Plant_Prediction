@@ -1,0 +1,252 @@
+{
+    "plants": [
+      {
+        "name": "Amla",
+        "images": [
+          "/PlantImages/Amla1.jpg",
+          "/PlantImages/Amla2.jpg",
+          "/PlantImages/Amla3.jpg",
+          "/PlantImages/Amla4.jpg"
+        ]
+      },
+      {
+        "name": "Aloevera",
+        "images": [
+          "/PlantImages/Aloe1.jpg",
+          "/PlantImages/Aloe2.jpg",
+          "/PlantImages/Aloe3.jpg",
+          "/PlantImages/Aloe4.jpg"
+        ]
+      },
+      {
+        "name": "Lemon",
+        "images": [
+          "/PlantImages/Lemon1.jpg",
+          "/PlantImages/Lemon2.jpg",
+          "/PlantImages/Lemon3.jpg",
+          "/PlantImages/Lemon4.jpg"
+        ]
+      },
+      {
+        "name": "Mint",
+        "images": [
+          "/PlantImages/mint-5274718_1920.jpg",
+          "/PlantImages/Mint1.jpg",
+          "/PlantImages/Mint2.jpg",
+          "/PlantImages/Mint3.jpg",
+          "/PlantImages/Mint4.jpg"
+        ]
+      },
+      {
+        "name": "Neem",
+        "images": [
+          "/PlantImages/neem.jpg"
+        ]
+      },
+      {
+        "name": "Mango",
+        "images": [
+          "/PlantImages/mango2.jpg"
+        ]
+      },
+      {
+        "name": "Sandalwood",
+        "images": [
+          "/PlantImages/Sandal_leaf.jpg"
+        ]
+      },
+      {
+        "name": "Castor",
+        "images": [
+          "/PlantImages/castor2.jpg"
+        ]
+      },
+      {
+        "name": "Arali",
+        "images": [
+          "/PlantImages/arali2.jpg"
+        ]
+      },
+      {
+        "name": "Amruthabali",
+        "images": [
+          "/PlantImages/amruthabali2.jpeg"
+        ]
+      },
+      {
+        "name": "Ashoka",
+        "images": [
+          "/PlantImages/ashoka.jpg"
+        ]
+      },
+      {
+        "name": "Ashwagandha",
+        "images": [
+          "/PlantImages/ashwagandha.jpeg"
+        ]
+      },
+      {
+        "name": "Avocado",
+        "images": [
+          "/PlantImages/avacado.jpeg"
+        ]
+      },
+      {
+        "name": "Bamboo",
+        "images": [
+          "/PlantImages/bamboo.jpg"
+        ]
+      },
+      {
+        "name": "Basale",
+        "images": [
+          "/PlantImages/basale.jpeg"
+        ]
+      },
+      {
+        "name": "Betel",
+        "images": [
+          "/PlantImages/betel.jpg"
+        ]
+      },
+      {
+        "name": "Brahmi",
+        "images": [
+          "/PlantImages/brahmi.jpg"
+        ]
+      },
+      {
+        "name": "Doddapatre",
+        "images": [
+          "/PlantImages/doddapatre.jpg"
+        ]
+      },
+      {
+        "name": "ekka",
+        "images": [
+          "/PlantImages/ekka.jpg"
+        ]
+      },
+      {
+        "name": "ganike",
+        "images": [
+          "/PlantImages/ganike.jpg"
+        ]
+      },
+      {
+        "name": "guava",
+        "images": [
+          "/PlantImages/guava.jpg"
+        ]
+      },
+      {
+        "name": "Geranium",
+        "images": [
+          "/PlantImages/Geranium.jpg"
+        ]
+      },
+      {
+        "name": "Henna",
+        "images": [
+          "/PlantImages/henna2.jpg"
+        ]
+      },
+      {
+        "name": "Hibiscus",
+        "images": [
+          "/PlantImages/hibiscus.jpg"
+        ]
+      },
+      {
+        "name": "Honge",
+        "images": [
+          "/PlantImages/honge.jpg"
+        ]
+      },
+      {
+        "name": "Insulin",
+        "images": [
+          "/PlantImages/insulin2.jpg"
+        ]
+      },
+      {
+        "name": "Jasmine",
+        "images": [
+          "/PlantImages/jasmine.jpg"
+        ]
+      },
+      {
+        "name": "Lemon",
+        "images": [
+          "/PlantImages/jasmine.jpg"
+        ]
+      },
+      {
+        "name": "Nagadali",
+        "images": [
+          "/PlantImages/Nagadali.jpg"
+        ]
+      },
+      {
+        "name": "Nithyapushpa",
+        "images": [
+          "/PlantImages/Nithyapushpa.jpg"
+        ]
+      },
+      {
+        "name": "nooni",
+        "images": [
+          "/PlantImages/nooni.jpg"
+        ]
+      },
+      {
+        "name": "Papaya",
+        "images": [
+          "/PlantImages/papaya.jpg"
+        ]
+      },
+      {
+        "name": "Pomegranate",
+        "images": [
+          "/PlantImages/Pomegranate.jpg"
+        ]
+      },
+      {
+        "name": "Tulsi",
+        "images": [
+          "/PlantImages/tulsi.jpg"
+        ]
+      },
+      {
+        "name": "Wood sorrel",
+        "images": [
+          "/PlantImages/Wood_sorrel.jpg"
+        ]
+      },
+      {
+        "name": "Sapota",
+        "images": [
+          "/PlantImages/sapota.jpg"
+        ]
+      },
+      {
+        "name": "Rose",
+        "images": [
+          "/PlantImages/rose2.jpg"
+        ]
+      },
+      {
+        "name": "Sandalwood",
+        "images": [
+          "/PlantImages/Sandal_leaf.jpg"
+        ]
+      },
+      {
+        "name": "Raktachandini",
+        "images": [
+          "/PlantImages/Raktachandini.jpg"
+        ]
+      }
+    ]
+  }
+  
