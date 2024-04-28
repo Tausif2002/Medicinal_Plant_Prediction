@@ -1,4 +1,4 @@
-# Team-43 Tech Tenets
+<!-- # Team-43 Tech Tenets
 ## Switch to 'finalTake' branch to see the final project.
 <center><img src="https://github.com/ITER-SIH/Team-43/assets/108077898/9536dbdc-3314-4071-99e1-2a7a4f4edc90" style="height:250px; width:390px;"></center>
 
@@ -48,4 +48,4 @@ This project not only serves as a valuable tool for plant enthusiasts, herbalist
 <img src="https://github.com/ITER-SIH/Team-43/assets/108077898/218e0ef9-656b-4ed0-a162-fd6fe270ca2f" style="width:50px;height:50px;">
 <img src="https://github.com/ITER-SIH/Team-43/assets/108077898/50cb03dc-2bc4-469b-bc0b-a144c434c5be" style="width:50px;height:50px;">
 
-
+ -->
